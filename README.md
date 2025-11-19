@@ -27,7 +27,7 @@ Jalankan command yang sesuai dengan OS:
 
 ##### 3\. Install Requirements
 ```bash
-pip install -r requirement.txt --no-dir-cache
+pip install -r requirement.txt --no-cache-dir
 ```
 
 ##### 4\. Jalankan Program
