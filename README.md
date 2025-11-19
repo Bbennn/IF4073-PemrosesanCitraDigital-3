@@ -1,7 +1,8 @@
 # Tugas Besar 3 IF4073 - Pemrosesan Citra Digital
 ## Image Segmentation
 
-### DeepLearning-based Image Segmentation
+### A. Conventional Image Segmentation
+### B. DeepLearning-based Image Segmentation
 
 #### How to run
 Ikuti langkah-langkah berikut
@@ -28,8 +29,6 @@ Jalankan command yang sesuai dengan OS:
 ```bash
 pip install -r requirement.txt --no-dir-cache
 ```
-
------
 
 ##### 4\. Jalankan Program
 ```bash
