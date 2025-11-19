@@ -4,9 +4,13 @@
 ### A. Conventional Image Segmentation
 ### B. DeepLearning-based Image Segmentation
 
+#### Extract Dataset
+##### 1\. Ekstrak archive.zip
+##### 2\. Masuk ke folder hasil ekstraksi
+##### 3\. Pindahkan semua isi file ke folder dataset\deeplearning
+
 #### How to run
 Ikuti langkah-langkah berikut
-
 ##### 1\. Buat Virtual Environemnt
 
 Gunakan virtual environemnt untuk mengisolasi dependecies projek
